@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/react-photo-exhibition/static/js/main.ddec4c05.chunk.js",
+    "main.js.map": "/react-photo-exhibition/static/js/main.ddec4c05.chunk.js.map",
+    "runtime-main.js": "/react-photo-exhibition/static/js/runtime-main.eb112ab0.js",
+    "runtime-main.js.map": "/react-photo-exhibition/static/js/runtime-main.eb112ab0.js.map",
+    "static/js/2.8220f354.chunk.js": "/react-photo-exhibition/static/js/2.8220f354.chunk.js",
+    "static/js/2.8220f354.chunk.js.map": "/react-photo-exhibition/static/js/2.8220f354.chunk.js.map",
+    "index.html": "/react-photo-exhibition/index.html",
+    "static/js/2.8220f354.chunk.js.LICENSE.txt": "/react-photo-exhibition/static/js/2.8220f354.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb112ab0.js",
+    "static/js/2.8220f354.chunk.js",
+    "static/js/main.ddec4c05.chunk.js"
+  ]
+}
